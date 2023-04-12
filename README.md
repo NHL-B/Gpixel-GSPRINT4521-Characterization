@@ -22,7 +22,7 @@ The standard parameters are:
 
 For the time being, QE, PRNU and DSNU will not be discussed further here. 
 
-![Plots](https://github.com/NHL-B/Gpixel-GSPRINT4521-Characterization/blob/main/doc/images/Plots.png)
+![Plots](https://github.com/NHL-B/Gpixel-GSPRINT4521-Characterization/blob/main/doc/images/plots.png)
 This image gives you an idea of the kind of results you can get with these codes.
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
