@@ -22,7 +22,7 @@ The standard parameters are:
 - Photo-Response Non-Uniformity (PRNU) [%]
 - Dark Signal Non-Uniformity (DSNU) [e-] 
 
-For full documentation, please refer to [Camera characterization Documentation](https://github.com/NHL-B/Camera-characterization-using-Python/tree/main/Camera%20characterization%20Documentation)
+For full documentation, please refer to [Gpixel GSPRINT4521 Characterization Documentation](https://github.com/NHL-B/Gpixel-GSPRINT4521-Characterization/tree/main/Gpixel%20GSPRINT4521%20Characterization%20Documentation) 
 
 For the time being, QE, PRNU and DSNU will not be discussed further here. 
 
