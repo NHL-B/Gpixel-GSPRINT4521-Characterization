@@ -2,8 +2,6 @@
 > #### *21MP High Speed CMOS Image Sensor.*
 
 ## EMVA Standard 1288
-![EMVA](https://user-images.githubusercontent.com/92443490/159484319-394a24ef-433c-4ce3-9343-60d90512708f.png)
-
 
 The different parameters that describe the characteristics and quality of a sensor are gathered and coherently described in the [EMVA 1288](https://www.emva.org/standards-technology/emva-1288/). 
 
@@ -22,11 +20,9 @@ The standard parameters are:
 - Photo-Response Non-Uniformity (PRNU) [%]
 - Dark Signal Non-Uniformity (DSNU) [e-] 
 
-For full documentation, please refer to [Gpixel GSPRINT4521 Characterization Documentation](https://github.com/NHL-B/Gpixel-GSPRINT4521-Characterization/tree/main/Gpixel%20GSPRINT4521%20Characterization%20Documentation) 
-
 For the time being, QE, PRNU and DSNU will not be discussed further here. 
 
-![Plots](https://github.com/NHL-B/Camera-characterization-using-Python/blob/main/Camera%20characterization%20Documentation/images/Plots.png)
+![Plots](https://github.com/NHL-B/Gpixel-GSPRINT4521-Characterization/blob/main/doc/images/Plots.png)
 This image gives you an idea of the kind of results you can get with these codes.
 
 [Requirements](requirements.txt): A list of Python libraries you'll need for this project.
