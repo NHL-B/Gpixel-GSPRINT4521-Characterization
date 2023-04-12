@@ -1,5 +1,5 @@
 # Gpixel-GSPRINT4521-Characterization
-> #### *GSPRINT4521 is a 21 Megapixel (5120 x 4096) APS sized (29.5mm diameter) high speed, global shutter image sensor designed with the latest 4.5 μm charge domain global shutter pixel. It achieves more than 30k e- FWC, less than 3 e- rms read noise and > 69 dB dynamic range, optionally increased to 81 dB with a dual gain HDR mode.*
+> #### *21MP High Speed CMOS Image Sensor.*
 
 ## EMVA Standard 1288
 ![EMVA](https://user-images.githubusercontent.com/92443490/159484319-394a24ef-433c-4ce3-9343-60d90512708f.png)
