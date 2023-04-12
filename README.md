@@ -3,7 +3,7 @@
 
 ## EMVA Standard 1288
 
-The different parameters that describe the characteristics and quality of a sensor are gathered and coherently described in the [EMVA 1288](https://www.emva.org/standards-technology/emva-1288/). 
+The different parameters that describe the characteristics and quality of a sensor are gathered and coherently described in the [EMVA 1288](https://www.emva.org/standards-technology/emva-1288/) (Release 3.1).
 
 I would highly recommend that you carefully read and understand this document before starting any operation.
 
